@@ -1,0 +1,6 @@
+-> microSD
+
+-> TODO: is 5v from programmer gonna fry board
+
+-> Create 2.2uF & 10nF caps in rocket lib => digikey link
+-> Create 5.6ohm & 68ohm resistors in rocket lib => digikey link
